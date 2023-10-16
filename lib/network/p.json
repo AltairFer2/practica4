@@ -1,0 +1,405 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/1syW9SNna38rSl9fnXwc9fP7POW.jpg",
+            "genre_ids": [
+                28,
+                878,
+                12
+            ],
+            "id": 565770,
+            "original_language": "en",
+            "original_title": "Blue Beetle",
+            "overview": "Un adolescente mexicano encuentra un escarabajo alienígena que le proporciona una armadura superpoderosa.",
+            "popularity": 2972.534,
+            "poster_path": "/z5mkvXYNRauSzHdZgxAj6MzrLTY.jpg",
+            "release_date": "2023-08-16",
+            "title": "Blue Beetle",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 956
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iiXliCeykkzmJ0Eg9RYJ7F2CWSz.jpg",
+            "genre_ids": [
+                28,
+                9648,
+                53,
+                80
+            ],
+            "id": 762430,
+            "original_language": "en",
+            "original_title": "Retribution",
+            "overview": "Matt Turner es un hombre de negocios estadounidense que vive en Berlín y que, en el transcurso de un día, se encuentra en una carrera contrarreloj para salvar a su familia y su propia vida. Cuando lleva a sus hijos a la escuela, Matt recibe una llamada telefónica, una voz misteriosa le advierte que su vehículo está lleno de explosivos. Para proteger a su familia y resolver el misterio, Matt debe seguir las instrucciones del extraño y realizar una serie de tareas a contrarreloj.",
+            "popularity": 1484.504,
+            "poster_path": "/sf8bmlofyWyRaaaWC9gR79It8qO.jpg",
+            "release_date": "2023-08-23",
+            "title": "Contrarreloj",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 236
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8pjWz2lt29KyVGoq1mXYu6Br7dE.jpg",
+            "genre_ids": [
+                28,
+                878,
+                27
+            ],
+            "id": 615656,
+            "original_language": "en",
+            "original_title": "Meg 2: The Trench",
+            "overview": "Un equipo de investigación inicia una misión que va a explorar las profundidades más abismales del mar. Pero su viaje se convierte en caos cuando un malévolo operativo minero amenaza su misión y los obliga a librar una batalla de alto riesgo por la supervivencia. Enfrentados a colosales Megalodones y a implacables saqueadores medioambientales, nuestros héroes deben correr más rápido, ser más astutos y nadar a mayor velocidad que sus despiadados depredadores en una trepidante carrera contra el tiempo.",
+            "popularity": 1322.828,
+            "poster_path": "/mBgynPDplmo5JTY9VfGqY35OjDu.jpg",
+            "release_date": "2023-08-02",
+            "title": "Megalodón 2: El gran abismo",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 1973
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 385687,
+            "original_language": "en",
+            "original_title": "Fast X",
+            "overview": "A través de varias misiones y contra lo imposible, Dom Toretto y su familia han sido más astutos y más rápidos que todos los enemigos se le han cruzado en su camino. Ahora se enfrentan a su enemigo más letal: una amenaza aterradora que surge de las sombras del pasado que está alimentado de una venganza sangrienta, y está decidido a destruir a su familia y destruir todo, y a cualquier persona, a los que Dom ama.",
+            "popularity": 1183.157,
+            "poster_path": "/qDRrP4NATGTWH8ORJV6T0BeoIhQ.jpg",
+            "release_date": "2023-05-17",
+            "title": "Rápidos y furiosos X",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 3867
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iIvQnZyzgx9TkbrOgcXx0p7aLiq.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1008042,
+            "original_language": "en",
+            "original_title": "Talk to Me",
+            "overview": "La solitaria adolescente Mia se engancha a la emoción de invocar espíritus utilizando una mano embalsamada, pero cuando se enfrenta a un alma que dice ser su madre muerta, desata una plaga de fuerzas sobrenaturales y se debate entre decidir en quién puede confiar: en los vivos o en los muertos.",
+            "popularity": 1107.778,
+            "poster_path": "/rS8fjd6dYcf64v3ZhAE6fKrxoaF.jpg",
+            "release_date": "2023-07-26",
+            "title": "Háblame",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 899
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/53z2fXEKfnNg2uSOPss2unPBGX1.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 968051,
+            "original_language": "en",
+            "original_title": "The Nun II",
+            "overview": "1956 – Francia. Un sacerdote es asesinado. Un mal se está extendiendo. La hermana Irene una vez más se encuentra cara a cara con Valak, la monja demonio.",
+            "popularity": 1092.159,
+            "poster_path": "/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg",
+            "release_date": "2023-09-06",
+            "title": "La monja II",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 339
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+            "genre_ids": [
+                35,
+                12,
+                14
+            ],
+            "id": 346698,
+            "original_language": "en",
+            "original_title": "Barbie",
+            "overview": "Una muñeca que vive en 'Barbieland' es expulsada al mundo real por no ser lo suficientemente perfecta. Basada en la popular muñeca Barbie.",
+            "popularity": 1062.817,
+            "poster_path": "/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg",
+            "release_date": "2023-07-19",
+            "title": "Barbie",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 5045
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jv4tiXAgaArMQo57jFMjvBEjmoa.jpg",
+            "genre_ids": [
+                28,
+                18,
+                12
+            ],
+            "id": 980489,
+            "original_language": "en",
+            "original_title": "Gran Turismo",
+            "overview": "Basada en una historia real, la película cuenta cómo cumplió su sueño un adolescente que jugaba a Gran Turismo, juego en el que ganó una serie de competiciones patrocinadas por Nissan, y que le sirvió de trampolín para acabar convirtiéndose en un piloto de carreras profesional.",
+            "popularity": 976.892,
+            "poster_path": "/tVj5dn15iwkMhjU2wIih1yMy5LK.jpg",
+            "release_date": "2023-08-09",
+            "title": "Gran Turismo: De jugador a corredor",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 473
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zYlgqIpqJ1VAbvFhRhktAzIybVs.jpg",
+            "genre_ids": [
+                27,
+                878,
+                53
+            ],
+            "id": 820609,
+            "original_language": "en",
+            "original_title": "No One Will Save You",
+            "overview": "Una joven que ha sido alejada de su comunidad se encuentra en un enfrentamiento contra una multitud de seres extraterrestres que amenazan su futuro y la obligan a lidiar con su pasado.",
+            "popularity": 930.332,
+            "poster_path": "/udniPSAJS6RDarNgSBK8IUsFthf.jpg",
+            "release_date": "2023-09-22",
+            "title": "Nadie podrá salvarte",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 276
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oghHR3X0hIcvs7xqyoFjA0GAZWn.jpg",
+            "genre_ids": [
+                53
+            ],
+            "id": 1002338,
+            "original_language": "is",
+            "original_title": "Napóleonsskjölin",
+            "overview": "",
+            "popularity": 749.07,
+            "poster_path": "/uUxewMS50NdfzOvhssEluJfJxU1.jpg",
+            "release_date": "2023-01-26",
+            "title": "Napóleonsskjölin",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 20
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uAAAzo9efEZJJPtj4iNwFvrRaki.jpg",
+            "genre_ids": [
+                28,
+                80,
+                878,
+                18
+            ],
+            "id": 744278,
+            "original_language": "it",
+            "original_title": "Mondocane",
+            "overview": "En un futuro no muy lejano, Taranto es una ciudad fantasma rodeada de alambre de espino donde nadie, ni siquiera la policía, se atreve a entrar. Los más pobres se quedan, luchando por sobrevivir, mientras una banda criminal, los “Formiche”, liderada por el carismático “Testacalda”, compite por el territorio con otra banda callejera. Dos huérfanos de 13 años, que crecieron juntos, sueñan con unirse a esa banda. Pietro, conocido como “Mondocane” por haber pasado la prueba de aceptación en la banda, impone a su querido amigo Christian en el grupo, que se burla de él llamándole “Pisciasotto”. Pero algo rompe su equilibrio, poniendo en riesgo todo aquello en lo que creen.",
+            "popularity": 732.407,
+            "poster_path": "/nfbMsRFE8mWChXxazBpDYBTG55H.jpg",
+            "release_date": "2021-09-03",
+            "title": "Mundo Canino",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 113
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c6Splshb8lb2Q9OvUfhpqXl7uP0.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 717930,
+            "original_language": "en",
+            "original_title": "Kandahar",
+            "overview": "Tras sabotear un reactor nuclear iraní, el agente de la CIA Tom Harris descubre que su identidad ha sido revelada a los medios después de que un informante expusiera la implicación de la CIA en la destrucción del reactor. Harris dispone de sólo 30 horas para llegar al aeropuerto de Kandahar y evitar su muerte y captura. Para conseguirlo, necesitará la ayuda de un traductor afgano llamado Mo que desprecia la violencia y el derramamiento de sangre causado por el conflicto bélico. Perseguidos por peligrosas amenazas, entre las que se encuentra el despiadado asesino Kahil, Tom y Mo se verán obligados a unir fuerzas para llegar, de una pieza, a Kandahar.",
+            "popularity": 722.895,
+            "poster_path": "/qE2EsMv37IjXLjc6ixOU3LeRtZl.jpg",
+            "release_date": "2023-05-25",
+            "title": "Escape bajo fuego",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 565
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5xUJBgds96m6Xi2EtUpSzbw24D7.jpg",
+            "genre_ids": [
+                53,
+                9648
+            ],
+            "id": 852436,
+            "original_language": "fr",
+            "original_title": "Seule : Les dossiers Silvercloud",
+            "overview": "Anne, quien vive recluida en la montaña, descubre que su aislado chalet ha sido sometido a escucha. Comprende así que su pasado como agente de los servicios de inteligencia, el cual pretendía dejar atrás para siempre, ha vuelto para acecharla.",
+            "popularity": 699.61,
+            "poster_path": "/kOvZ0QeqJd8eizfEUe03jxm14wn.jpg",
+            "release_date": "2023-03-08",
+            "title": "La espía",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 47
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4fLZUr1e65hKPPVw0R3PmKFKxj1.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                14,
+                10749
+            ],
+            "id": 976573,
+            "original_language": "en",
+            "original_title": "Elemental",
+            "overview": "En una ciudad en la que conviven el fuego, el agua, la tierra y el aire, una joven llena de fuego y un tipo que fluye descubrirán lo mucho que tienen en común.",
+            "popularity": 677.12,
+            "poster_path": "/d79DeKDCgFOM23O8Dr6MELZVooY.jpg",
+            "release_date": "2023-06-14",
+            "title": "Elementos",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 2403
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iOJX54nVAsnPawagFiWXKv1Y6sB.jpg",
+            "genre_ids": [
+                16,
+                12,
+                10751
+            ],
+            "id": 1076364,
+            "original_language": "en",
+            "original_title": "Carl's Date",
+            "overview": "Corto de animación protagonizado por Carl y Dug de la película de Pixar \"Up\", que acompañará en el estreno de cines del film \"Elemental\".",
+            "popularity": 648.421,
+            "poster_path": "/uWomFPmEY2b05PbHGWPJaKjN42P.jpg",
+            "release_date": "2023-06-15",
+            "title": "La cita de Carl",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 184
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/35z8hWuzfFUZQaYog8E9LsXW3iI.jpg",
+            "genre_ids": [
+                12,
+                28
+            ],
+            "id": 335977,
+            "original_language": "en",
+            "original_title": "Indiana Jones and the Dial of Destiny",
+            "overview": "El arqueólogo Indiana Jones deberá emprender otra aventura contra el tiempo para intentar recuperar un dial legendario que puede cambiar el curso de la historia. Acompañado por su ahijada, Jones pronto se encuentra enfrentándose a Jürgen Voller, un ex nazi que trabaja para la NASA.",
+            "popularity": 607.636,
+            "poster_path": "/3Sj5ubQ0BLXd6JuECq52Ira8Oor.jpg",
+            "release_date": "2023-06-28",
+            "title": "Indiana Jones y el dial del destino",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 1742
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/waBWlJlMpyFb7STkFHfFvJKgwww.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 678512,
+            "original_language": "en",
+            "original_title": "Sound of Freedom",
+            "overview": "La historia de Tim Ballard, un ex agente del gobierno de EE. UU., que deja su trabajo para dedicar su vida a rescatar a niños de los traficantes sexuales mundiales.",
+            "popularity": 566.855,
+            "poster_path": "/apxaWDCqjPrVc1v5HiKW2r10yiL.jpg",
+            "release_date": "2023-07-03",
+            "title": "Sonido De Libertad",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 494
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 667538,
+            "original_language": "en",
+            "original_title": "Transformers: Rise of the Beasts",
+            "overview": "Una aventura alrededor del mundo con los Autobots que introducirá una nueva facción de Transformers - los Maximals - en la batalla existente en la Tierra entre Autobots y Decepticons.",
+            "popularity": 547.076,
+            "poster_path": "/8HBYMQkF6cFpupgRDhsrrKskXOE.jpg",
+            "release_date": "2023-06-06",
+            "title": "Transformers: El despertar de las bestias",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 3262
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6fKEw0I2FTD5FLOQ5q7L1tqf876.jpg",
+            "genre_ids": [
+                10751,
+                35,
+                28,
+                12
+            ],
+            "id": 790493,
+            "original_language": "en",
+            "original_title": "Spy Kids: Armageddon",
+            "overview": "Cuando un desarrollador de videojuegos libera un virus informático, los hijos de dos agentes secretos se unen para salvar a sus padres... y al mundo.",
+            "popularity": 525.935,
+            "poster_path": "/juWq5f91rhWrxVThNwdpbhRLoQK.jpg",
+            "release_date": "2023-09-22",
+            "title": "Miniespías: Armagedón",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 39
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 298618,
+            "original_language": "en",
+            "original_title": "The Flash",
+            "overview": "Cuando su intento de salvar a su familia altera el futuro sin darse cuenta, Barry Allen queda atrapado en una realidad en la que el general Zod ha regresado y no hay superhéroes a los que recurrir. En última instancia, para salvar el mundo en el que se encuentra y regresar al futuro que conoce, la única esperanza de Barry es escapar de él para salvar su vida. Pero, ¿será suficiente hacer el último sacrificio para reiniciar el universo?",
+            "popularity": 486.095,
+            "poster_path": "/x9Qc86JEyYkAKsdzjDpS5kbaAB7.jpg",
+            "release_date": "2023-06-13",
+            "title": "Flash",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 2950
+        }
+    ],
+    "total_pages": 40282,
+    "total_results": 805640
+}
